@@ -1,0 +1,2 @@
+// Passenger.ts
+export {};
